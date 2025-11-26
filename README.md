@@ -86,8 +86,8 @@ Jinja2 と JavaScript の混在を避け、見通しをよく設計を意識し�
 🖥 画面イメージ
 ---
 <img width="1916" height="910" alt="image" src="https://github.com/user-attachments/assets/7a2e8dbc-2552-455d-81ee-1a946a5be161" />
-<img width="1915" height="905" alt="image" src="https://github.com/user-attachments/assets/ffd29ebb-4069-4559-9eed-ab0eb2ecdeb3" />
-<img width="1919" height="911" alt="image" src="https://github.com/user-attachments/assets/dcfc9a4b-a51b-43c9-9a28-226bc4af5798" />
+<img width="1919" height="914" alt="image" src="https://github.com/user-attachments/assets/79338cb8-cd28-4100-9d65-ccacba438c16" />
+<img width="1919" height="910" alt="image" src="https://github.com/user-attachments/assets/9a33ce58-3c24-480a-a41e-71e297794482" />
 
 
 
